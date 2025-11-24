@@ -19,7 +19,7 @@ const options = {
         description: "Building Server",
       },
     ],
-  },
+  },  
   apis: ["./routes/*.js"], // router fayllardagi @swagger kommentlarini o‘qiydi
 };
 
